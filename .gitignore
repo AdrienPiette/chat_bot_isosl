@@ -1,0 +1,17 @@
+# venv
+.venv/
+
+# données locales
+data/raw_procedures/
+data/processed/
+data/indexes/
+
+# fichiers Python
+__pycache__/
+*.pyc
+
+# notebooks temporaires
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
