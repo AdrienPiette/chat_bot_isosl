@@ -2,3 +2,4 @@ https://www.youtube.com/watch?v=au2WVVGUvc8   create chatbot with pdf data langc
 https://www.youtube.com/watch?v=SXjfAIwbkZY create local RAG chatbot
 https://www.confident-ai.com/blog/how-to-build-a-pdf-qa-chatbot-using-openai-and-chromadb How to build a PDF QA chatbot using OpenAI and ChromaDB 
 
+https://www.youtube.com/watch?v=2TJxpyO3ei4 RAG from pdf
