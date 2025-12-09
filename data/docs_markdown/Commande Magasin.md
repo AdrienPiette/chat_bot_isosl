@@ -1,4 +1,41 @@
-![[Guide APOWEB_US.pdf]]
+---
+id: "apoweb_commande_magasin_v1"
+title: "Commande Magasin via APOWEB"
+description: "Procédure complète pour commander du matériel médical via l'application APOWEB, remplaçant LIFT."
+application: "Portail Applicatif ISoSL"
+module: "APOWEB"
+document_type: "user-guide"
+target_audience: "staff-hospitalier"
+language: "fr"
+
+date_created: "2025-01-01"
+last_updated: "2025-01-01"
+
+sections:
+  - "Connexion à APOWEB"
+  - "Page Produits"
+  - "Filtres et recherche"
+  - "Encoder les quantités"
+  - "Sauvegarder les changements"
+  - "Consultation des commandes"
+  - "Menu Demandes"
+  - "Bon de commande"
+  - "Envoi du bon de commande"
+  - "Urgence et commentaires"
+
+tags:
+  - "commande-magasin"
+  - "apoweb"
+  - "portail-applicatif"
+  - "matériel-médical"
+  - "commande"
+  - "formation"
+  - "procédure"
+
+screenshots_count: 14
+document_type_detail: "Procédure détaillée d'utilisation d'APOWEB pour les commandes internes"
+---
+
 
 
 # Commande Magasin optimisée RAG

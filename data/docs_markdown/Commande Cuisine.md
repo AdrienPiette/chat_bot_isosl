@@ -1,4 +1,41 @@
-![[Commande cuisine.pdf
+---
+id: "commande_cuisine_v1"
+title: "La Commande Cuisine"
+description: "Procédure complète d'utilisation du module Commande Cuisine via le Portail Applicatif ISoSL."
+application: "Portail Applicatif ISoSL"
+module: "Commande Cuisine"
+document_type: "user-guide"
+target_audience: "staff-hospitalier"
+language: "fr"
+
+date_created: "2025-01-01"
+last_updated: "2025-01-01"
+
+sections:
+  - "Ouvrir le formulaire de commande"
+  - "Icône Portail Applicatif"
+  - "Icône Commande Cuisine"
+  - "Page d’accueil du Portail Applicatif"
+  - "Écran d’identification La Cuisine"
+  - "Écran principal Commandes Cuisine"
+  - "Zone 1 – Recherche d’un produit"
+  - "Zone 2 – Historique des commandes"
+  - "Zone 3 – Résultat de recherche"
+  - "Zone 4 – Commande en cours"
+  - "Commander un produit"
+
+tags:
+  - "commande-cuisine"
+  - "portail-applicatif"
+  - "repas"
+  - "unité-de-soins"
+  - "formation"
+  - "procédure"
+
+screenshots_count: 12
+document_type_detail: "Procédure détaillée avec explications visuelles"
+---
+
 
 # La Commande cuisine 
 
