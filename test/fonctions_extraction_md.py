@@ -37,3 +37,4 @@ def load_markdown_with_yaml(path):
 
     body = body.strip()
     return metadata, body
+

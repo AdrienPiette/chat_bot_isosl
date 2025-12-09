@@ -1,6 +1,4 @@
 from pathlib import Path
-import yaml
-
 from test.fonctions_extraction_md import load_markdown_with_yaml
 
 md_path = Path("data/docs_markdown/Commande Cuisine.md")
