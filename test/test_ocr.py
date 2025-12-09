@@ -1,4 +1,4 @@
-from ingestion.fonctions_extraction import extract_text_pdf
+from chat_bot_isosl.test.fonctions_extraction_pdf_ocr import extract_text_pdf
 
 pdf_path = "data/pdf/Gestion des Lits.pdf"
 
@@ -9,7 +9,7 @@ print("Content of the first page:")
 print(pages[0])
 
 
-from ingestion.fonctions_extraction import extract_pdf_pages_text_with_ocr
+from chat_bot_isosl.test.fonctions_extraction_pdf_ocr import extract_pdf_pages_text_with_ocr
 
 pdf_path = "data/pdf/Gestion des Lits.pdf"
 
@@ -18,7 +18,7 @@ text = extract_pdf_pages_text_with_ocr(pdf_path)
 print("Extracted text from image-based PDF:")
 print(text)
 
-from ingestion.fonctions_extraction import extract_pdf_pages_structured
+from chat_bot_isosl.test.fonctions_extraction_pdf_ocr import extract_pdf_pages_structured
 
 pdf_path = "data/pdf/Gestion des Lits.pdf"
 
@@ -38,8 +38,8 @@ print(pages[0]["ocr"][:800])
 
 from pathlib import Path
 
-from ingestion.fonctions_extraction import extract_pdf_pages_structured
-from ingestion.fonctions_extraction import pages_to_markdown_simple
+from chat_bot_isosl.test.fonctions_extraction_pdf_ocr import extract_pdf_pages_structured
+from chat_bot_isosl.test.fonctions_extraction_pdf_ocr import pages_to_markdown_simple
 
 # 1) Chemin du PDF source
 pdf_path = "data/pdf/Gestion des Lits.pdf"
